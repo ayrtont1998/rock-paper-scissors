@@ -32,8 +32,8 @@ function playRound(playerSelection, computerSelection){
 }
 
 
-// function playGame(){
-//     for (i=0; i < 5; i++){
-//         console.log(playRound());
-// }
-// }
+function playGame(){
+    for (i=0; i < 5; i++){
+        console.log(playRound());
+}
+}
